@@ -1,3 +1,3 @@
 
-#My App
+#MyApp
 DummyApp for demo
