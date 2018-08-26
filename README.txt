@@ -1,2 +1,3 @@
-#Dummy Project
-My App
+
+#My App
+DummyApp for demo
